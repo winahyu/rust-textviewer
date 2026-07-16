@@ -1,6 +1,6 @@
 # rust-textviewer
 
-<img width="1206" height="630" alt="image" src="https://github.com/user-attachments/assets/33e576c2-021c-4a7b-a67e-07469443fb81" />
+<img width="603" height="315" alt="image" src="https://github.com/user-attachments/assets/33e576c2-021c-4a7b-a67e-07469443fb81" />
 
 
 Linux TUI text file viewer with a File menu and bash shell support.
