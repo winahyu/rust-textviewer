@@ -1,0 +1,1 @@
+/home/winahyu/git/rust-textviewer/target/release/rust-textviewer: /home/winahyu/git/rust-textviewer/src/app.rs /home/winahyu/git/rust-textviewer/src/file_ops.rs /home/winahyu/git/rust-textviewer/src/main.rs /home/winahyu/git/rust-textviewer/src/shell.rs /home/winahyu/git/rust-textviewer/src/ui.rs

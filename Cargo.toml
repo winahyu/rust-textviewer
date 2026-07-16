@@ -1,0 +1,11 @@
+[package]
+name = "rust-textviewer"
+version = "0.1.0"
+edition = "2021"
+description = "Linux TUI text file viewer with File menu and bash shell support"
+license = "MIT"
+
+[dependencies]
+anyhow = "1.0.103"
+crossterm = "0.29.0"
+ratatui = "0.30.2"
